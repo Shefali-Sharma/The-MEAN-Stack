@@ -30,3 +30,6 @@ Download Visual Studio Code from ```code.visualstudio.com``` and install it.
 * Open your project.
 * Under 'View' open 'Extentions'
 * Search for 'Angular Essentials' and install the extention
+
+### ngModel
+- It is a 2-way binding feature which binds an object such that it can directly accessed/referenced using that value.
