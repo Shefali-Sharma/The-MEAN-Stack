@@ -41,3 +41,10 @@ Download Visual Studio Code from ```code.visualstudio.com``` and install it.
 * Go to: ```https://material.angular.io/```
 * Click on ```Components``` tab
 
+#### Themes and Updates
+This command adds a field in ```package.json``` for the added angular materials. It also adds ```styles``` in angular.json. 
+
+By default the pre-built theme is ```indigo-pink.css```. But this can be updated.
+To see the available pre-built-themes, go to:
+->node_modules -> @angular -> material -> prebuilt-themes
+
