@@ -46,5 +46,5 @@ This command adds a field in ```package.json``` for the added angular materials.
 
 By default the pre-built theme is ```indigo-pink.css```. But this can be updated.
 To see the available pre-built-themes, go to:
-->node_modules -> @angular -> material -> prebuilt-themes
+* node_modules/@angular/material/prebuilt-themes
 
