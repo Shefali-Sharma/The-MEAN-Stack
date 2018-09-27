@@ -33,3 +33,11 @@ Download Visual Studio Code from ```code.visualstudio.com``` and install it.
 
 ### ngModel
 - It is a 2-way binding feature which binds an object such that it can directly accessed/referenced using that value.
+
+### Installing Angular Materials
+
+```ng add @angular/material```
+#### Documentation: 
+* Go to: ```https://material.angular.io/```
+* Click on ```Components``` tab
+
