@@ -51,3 +51,6 @@ To see the available pre-built-themes, go to:
 ### Installing Express
 ```npm install --save express```
 
+### Installing nodemon
+```npm install --save-dev nodemon```
+
